@@ -103,7 +103,7 @@ mkdir user
 ```
 git clone --depth 1 https://notabug.org/litucks/torzu.git
 ```
-**from Torzu repo (assuming Tor is installed as a service):**
+**from Torzu repo (assuming Tor is installed as a service, download tor browser and run tor.exe):**
 ```
 git -c http.proxy=socks5h://127.0.0.1:9050 clone --depth 1 http://vub63vv26q6v27xzv2dtcd25xumubshogm67yrpaz2rculqxs7jlfqad.onion/torzu-emu/torzu.git
 ```
