@@ -1,3 +1,6 @@
+# Onion Link to Main Repo
+https://vub63vv26q6v27xzv2dtcd25xumubshogm67yrpaz2rculqxs7jlfqad.onion.pet/torzu-emu/torzu  (remove .pet to access onion directly)
+
 # Method I: MSVC Build for Windows (MS Visual Studio)
 
 ### MSVC: Overview
